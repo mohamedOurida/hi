@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Computer Vision Intern",
-    cardImage: "assets/images/experience-page/leoni.png",
+    cardImage: "assets/images/experience-page/leoni.jpg",
     place: "LEONI",
     time: "(02/2025 - 06/2025)",
     desp: "<li>•Designed a real-time ergonomic risk assessment system using a single camera and 3D pose estimation through Building and training a bi-directional LSTM model (2 layers, 128 units) to predict RULA scores from video-based posture data with 89% test accuracy.</li>",

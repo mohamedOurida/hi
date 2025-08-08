@@ -529,8 +529,8 @@ a:hover {
   }
   
   img{
-    height:100px;
-    width:150px;
+    height:auto;
+    width:auto;
     margin-bottom: 0px;
     margin-top: 0px;
   }
@@ -549,8 +549,8 @@ a:hover {
     margin-top: 4rem;
   }
   img{
-    height:100px;
-    width:150px;
+    height:auto;
+    width:auto;
     margin-bottom: 0px;
     margin-top: 0px;
   }
@@ -572,8 +572,8 @@ a:hover {
     margin-top: 4rem;
   }
   img{
-    height:100px;
-    width:150px;
+    height:auto;
+    width:auto;
     margin-bottom: 0px;
     margin-top: 0px;
   }
