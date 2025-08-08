@@ -6,14 +6,14 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Computer Vision Intern",
-    cardImage: "assets/images/experience-page/leoni.jpg",
+    cardImage: "assets/images/experience-page/leoni.png",
     place: "LEONI",
     time: "(02/2025 - 06/2025)",
     desp: "<li>•Designed a real-time ergonomic risk assessment system using a single camera and 3D pose estimation through Building and training a bi-directional LSTM model (2 layers, 128 units) to predict RULA scores from video-based posture data with 89% test accuracy.</li>",
   },
   {
     title: "Data Scientist intern",
-    cardImage: "assets/images/experience-page/addinn.png",
+    cardImage: "assets/images/experience-page/addinn.jpg",
     place: "ADDINN Group",
     time: "(06/2023 - 08/2023)",
     desp: "<li>Development of a credit scoring tool to predict whether a client can pay his loans or not . Project delivered for abank</li>",
